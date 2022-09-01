@@ -118,7 +118,7 @@ yat:
 # greatgold: #f2cb05
 # greenblue: #389092
 #
-# brand_color: orangered
+# brand_color: greatgold
 #
 # Custom color as below:
 # brand_color: "#1a8e42"
@@ -153,7 +153,7 @@ yat:
 #   - tags.html
 #   - about.md
 
-# Page default value
+#n Page default value
 # defaults:
 #   home:
 #     heading: "Your awesome heading"
